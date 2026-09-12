@@ -4,3 +4,4 @@ data/**/*.csv
 artifacts/*.joblib
 models/*.keras
 metrics/*.json
+__pycache__
