@@ -5,3 +5,4 @@ artifacts/*.joblib
 models/*.keras
 metrics/*.json
 __pycache__
+.dvc
