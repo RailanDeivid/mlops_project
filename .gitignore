@@ -1,0 +1,6 @@
+.venv/
+ml_classifier.egg-info
+data/**/*.csv
+artifacts/*.joblib
+models/*.keras
+metrics/*.json
